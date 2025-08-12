@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/spruce_thin_branch_22.5_straight_y_90",
+        "particle": "mcme:block/spruce_thin_branch_22.5_straight_y_90"
+    },
+    "parent": "mcme:block/spruce_thin_branch_22.5_straight_parent"
+}

@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/directional_sign_bottom_1",
+        "particle": "mcme:block/directional_sign_bottom_1"
+    },
+    "parent": "mcme:block/directional_sign_bottom_1_parent"
+}

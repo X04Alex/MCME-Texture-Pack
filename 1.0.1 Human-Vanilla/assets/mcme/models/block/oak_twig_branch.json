@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/oak_twig_branch",
+        "particle": "mcme:block/oak_twig_branch"
+    },
+    "parent": "mcme:block/oak_twig_branch_parent"
+}

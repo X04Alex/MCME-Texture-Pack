@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/birch_branch_45_straight_y_90",
+        "particle": "mcme:block/birch_branch_45_straight_y_90"
+    },
+    "parent": "mcme:block/birch_branch_45_straight_parent"
+}

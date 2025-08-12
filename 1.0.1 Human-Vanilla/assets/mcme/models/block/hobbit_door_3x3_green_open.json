@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/hobbit_door_3x3_green_open",
+        "particle": "mcme:block/hobbit_door_3x3_green_open"
+    },
+    "parent": "mcme:block/hobbit_door_3x3_green_open_parent"
+}

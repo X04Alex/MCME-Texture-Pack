@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/poplar_twig_branch_up_3",
+        "particle": "mcme:block/poplar_twig_branch_up_3"
+    },
+    "parent": "mcme:block/poplar_twig_branch_up_3_parent"
+}

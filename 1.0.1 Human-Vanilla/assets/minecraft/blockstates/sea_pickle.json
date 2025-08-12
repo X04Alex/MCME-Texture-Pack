@@ -1,0 +1,36 @@
+{
+    "variants": {
+        "pickles=4": [
+            {
+                "model": "block/rivendell_rock"
+            },
+            {
+                "model": "block/rivendell_rock",
+                "y": 90
+            },
+            {
+                "model": "block/rivendell_rock",
+                "y": 180
+            },
+            {
+                "model": "block/rivendell_rock",
+                "y": 270
+            },
+            {
+                "model": "block/rivendell_rock_2"
+            },
+            {
+                "model": "block/rivendell_rock_2",
+                "y": 90
+            },
+            {
+                "model": "block/rivendell_rock_2",
+                "y": 180
+            },
+            {
+                "model": "block/rivendell_rock_2",
+                "y": 270
+            }
+        ]
+    }
+}

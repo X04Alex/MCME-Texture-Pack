@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/hangingbush_y_90",
+        "particle": "mcme:block/hangingbush_y_90"
+    },
+    "parent": "mcme:block/hangingbush_parent"
+}

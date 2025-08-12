@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/larch_trunk_vertical_4",
+        "particle": "mcme:block/larch_trunk_vertical_4"
+    },
+    "parent": "mcme:block/vertical_trunk_parent"
+}

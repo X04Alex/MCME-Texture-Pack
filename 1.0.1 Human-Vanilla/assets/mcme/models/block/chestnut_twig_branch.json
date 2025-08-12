@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/chestnut_twig_branch",
+        "particle": "mcme:block/chestnut_twig_branch"
+    },
+    "parent": "mcme:block/chestnut_twig_branch_parent"
+}

@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "berries=false": [
+            {
+                "model": "mcme:block/larch_large_sapling_tilted_y_180"
+            },
+            {
+                "model": "mcme:block/larch_large_sapling_tilted_2_y_180"
+            },
+            {
+                "model": "mcme:block/larch_large_sapling_tilted_3_y_180"
+            }
+        ],
+        "berries=true": {
+            "model": "minecraft:block/cave_vines_plant_lit"
+        }
+    }
+}

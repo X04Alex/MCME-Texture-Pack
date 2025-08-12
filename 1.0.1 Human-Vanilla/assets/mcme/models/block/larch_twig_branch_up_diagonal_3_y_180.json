@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/larch_twig_branch_up_diagonal_3_y_180",
+        "particle": "mcme:block/larch_twig_branch_up_diagonal_3_y_180"
+    },
+    "parent": "mcme:block/larch_twig_branch_up_diagonal_3_parent"
+}

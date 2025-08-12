@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/spruce_trunk_vertical_2",
+        "particle": "mcme:block/spruce_trunk_vertical_2"
+    },
+    "parent": "mcme:block/vertical_trunk_parent"
+}

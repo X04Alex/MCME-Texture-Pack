@@ -1,0 +1,606 @@
+{
+    "multipart": [
+        {
+            "when": {
+                "facing": "south",
+                "in_wall": "false",
+                "open": "false",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_2"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_3"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_4"
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "west",
+                "in_wall": "false",
+                "open": "false",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_2",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_3",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_4",
+                    "y": 90
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "north",
+                "in_wall": "false",
+                "open": "false",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_2",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_3",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_4",
+                    "y": 180
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "east",
+                "in_wall": "false",
+                "open": "false",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_2",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_3",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_packed_mud_4",
+                    "y": 270
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "south",
+                "in_wall": "false",
+                "open": "true",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_2"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_3"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_4"
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "west",
+                "in_wall": "false",
+                "open": "true",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_2",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_3",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_4",
+                    "y": 90
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "north",
+                "in_wall": "false",
+                "open": "true",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_2",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_3",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_4",
+                    "y": 180
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "east",
+                "in_wall": "false",
+                "open": "true",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_2",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_3",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_chiseled_resin_bricks_4",
+                    "y": 270
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "south",
+                "in_wall": "true",
+                "open": "false",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_2"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_3"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_4"
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "west",
+                "in_wall": "true",
+                "open": "false",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_2",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_3",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_4",
+                    "y": 90
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "north",
+                "in_wall": "true",
+                "open": "false",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_2",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_3",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_4",
+                    "y": 180
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "east",
+                "in_wall": "true",
+                "open": "false",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_2",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_3",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_resin_block_4",
+                    "y": 270
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "south",
+                "in_wall": "true",
+                "open": "true",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_2"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_3"
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_4"
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "west",
+                "in_wall": "true",
+                "open": "true",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_2",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_3",
+                    "y": 90
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_4",
+                    "y": 90
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "north",
+                "in_wall": "true",
+                "open": "true",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_2",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_3",
+                    "y": 180
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_4",
+                    "y": 180
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "east",
+                "in_wall": "true",
+                "open": "true",
+                "powered": "false"
+            },
+            "apply": [
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_2",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_3",
+                    "y": 270
+                },
+                {
+                    "model": "minecraft:block/vertical_slab_waxed_chiseled_copper_4",
+                    "y": 270
+                }
+            ]
+        },
+        {
+            "when": {
+                "facing": "south",
+                "in_wall": "false",
+                "open": "false",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "in_wall": "false",
+                "open": "false",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true,
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "in_wall": "false",
+                "open": "false",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true,
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "in_wall": "false",
+                "open": "false",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true,
+                "y": 270
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "in_wall": "false",
+                "open": "true",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "in_wall": "false",
+                "open": "true",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true,
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "in_wall": "false",
+                "open": "true",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "in_wall": "false",
+                "open": "true",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true,
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "in_wall": "true",
+                "open": "false",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "in_wall": "true",
+                "open": "false",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true,
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "in_wall": "true",
+                "open": "false",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true,
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "in_wall": "true",
+                "open": "false",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true,
+                "y": 270
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "in_wall": "true",
+                "open": "true",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "in_wall": "true",
+                "open": "true",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true,
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "in_wall": "true",
+                "open": "true",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "in_wall": "true",
+                "open": "true",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/replace",
+                "uvlock": true,
+                "y": 90
+            }
+        }
+    ]
+}

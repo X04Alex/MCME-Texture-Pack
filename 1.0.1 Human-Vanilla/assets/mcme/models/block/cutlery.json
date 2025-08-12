@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/cutlery",
+        "particle": "mcme:block/cutlery"
+    },
+    "parent": "mcme:block/cutlery_parent"
+}

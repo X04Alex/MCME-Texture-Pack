@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/pine_twig_branch_down_3",
+        "particle": "mcme:block/pine_twig_branch_down_3"
+    },
+    "parent": "mcme:block/pine_twig_branch_down_3_parent"
+}

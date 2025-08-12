@@ -1,0 +1,56 @@
+{
+    "variants": {
+        "waterlogged=false": [
+            {
+                "model": "mcme:block/bubble_coral_fan"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_y_90"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_y_180"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_y_270"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_2"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_2_y_90"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_2_y_180"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_2_y_270"
+            }
+        ],
+        "waterlogged=true": [
+            {
+                "model": "mcme:block/bubble_coral_fan"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_y_90"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_y_180"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_y_270"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_2"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_2_y_90"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_2_y_180"
+            },
+            {
+                "model": "mcme:block/bubble_coral_fan_2_y_270"
+            }
+        ]
+    }
+}

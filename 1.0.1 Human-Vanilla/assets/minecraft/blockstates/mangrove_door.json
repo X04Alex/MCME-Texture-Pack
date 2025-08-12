@@ -1,0 +1,470 @@
+{
+    "variants": {
+        "facing=north,half=lower,hinge=left,open=false,powered=false": {
+            "model": "minecraft:block/wooden_shelving_fancy",
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=east,half=lower,hinge=left,open=false,powered=false": {
+            "model": "minecraft:block/wooden_shelving_fancy",
+            "uvlock": true
+        },
+        "facing=south,half=lower,hinge=left,open=false,powered=false": {
+            "model": "minecraft:block/wooden_shelving_fancy",
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=west,half=lower,hinge=left,open=false,powered=false": {
+            "model": "minecraft:block/wooden_shelving_fancy",
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=north,half=lower,hinge=left,open=true,powered=false": {
+            "model": "minecraft:block/white_brick_1x2arch",
+            "y": 270
+        },
+        "facing=east,half=lower,hinge=left,open=true,powered=false": {
+            "model": "minecraft:block/white_brick_1x2arch"
+        },
+        "facing=south,half=lower,hinge=left,open=true,powered=false": {
+            "model": "minecraft:block/white_brick_1x2arch",
+            "y": 90
+        },
+        "facing=west,half=lower,hinge=left,open=true,powered=false": {
+            "model": "minecraft:block/white_brick_1x2arch",
+            "y": 180
+        },
+        "facing=north,half=lower,hinge=right,open=false,powered=false": {
+            "model": "minecraft:block/mangrove_door_1x3arch_white",
+            "y": 180
+        },
+        "facing=east,half=lower,hinge=right,open=false,powered=false": {
+            "model": "minecraft:block/mangrove_door_1x3arch_white",
+            "y": 270
+        },
+        "facing=south,half=lower,hinge=right,open=false,powered=false": {
+            "model": "minecraft:block/mangrove_door_1x3arch_white"
+        },
+        "facing=west,half=lower,hinge=right,open=false,powered=false": {
+            "model": "minecraft:block/mangrove_door_1x3arch_white",
+            "y": 90
+        },
+        "facing=north,half=lower,hinge=right,open=true,powered=false": {
+            "model": "minecraft:block/oak_beam_curved",
+            "y": 180
+        },
+        "facing=east,half=lower,hinge=right,open=true,powered=false": {
+            "model": "minecraft:block/oak_beam_curved",
+            "y": 270
+        },
+        "facing=south,half=lower,hinge=right,open=true,powered=false": {
+            "model": "minecraft:block/oak_beam_curved"
+        },
+        "facing=west,half=lower,hinge=right,open=true,powered=false": {
+            "model": "minecraft:block/oak_beam_curved",
+            "y": 90
+        },
+        "facing=north,half=upper,hinge=left,open=false,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_d",
+            "y": 270
+        },
+        "facing=east,half=upper,hinge=left,open=false,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_d"
+        },
+        "facing=south,half=upper,hinge=left,open=false,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_d",
+            "y": 90
+        },
+        "facing=west,half=upper,hinge=left,open=false,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_d",
+            "y": 180
+        },
+        "facing=north,half=upper,hinge=left,open=true,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_flip"
+        },
+        "facing=east,half=upper,hinge=left,open=true,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_flip",
+            "y": 90
+        },
+        "facing=south,half=upper,hinge=left,open=true,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_flip",
+            "y": 180
+        },
+        "facing=west,half=upper,hinge=left,open=true,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_flip",
+            "y": 270
+        },
+        "facing=north,half=upper,hinge=right,open=false,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_d_flip",
+            "y": 270
+        },
+        "facing=east,half=upper,hinge=right,open=false,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_d_flip"
+        },
+        "facing=south,half=upper,hinge=right,open=false,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_d_flip",
+            "y": 90
+        },
+        "facing=west,half=upper,hinge=right,open=false,powered=false": {
+            "model": "minecraft:block/oak_beam_curved_d_flip",
+            "y": 180
+        },
+        "facing=north,half=upper,hinge=right,open=true,powered=false": {
+            "model": "minecraft:block/wooden_shelving_simple",
+            "uvlock": true
+        },
+        "facing=east,half=upper,hinge=right,open=true,powered=false": {
+            "model": "minecraft:block/wooden_shelving_simple",
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=south,half=upper,hinge=right,open=true,powered=false": {
+            "model": "minecraft:block/wooden_shelving_simple",
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=west,half=upper,hinge=right,open=true,powered=false": {
+            "model": "minecraft:block/wooden_shelving_simple",
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=north,half=lower,hinge=left,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_3_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_3_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_3_4"
+            }
+        ],
+        "facing=east,half=lower,hinge=left,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_4"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_4_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_4_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_4_4"
+            }
+        ],
+        "facing=south,half=lower,hinge=left,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_1_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_1_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_1_4"
+            }
+        ],
+        "facing=west,half=lower,hinge=left,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_1_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_1_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_brown_vertical_slab_1_4"
+            }
+        ],
+        "facing=north,half=lower,hinge=left,open=true,powered=true": [
+            {
+                "model": "minecraft:block/sandstone_rim",
+                "y": 90,
+                "uvlock": false
+            },
+            {
+                "model": "minecraft:block/sandstone_rim_2",
+                "y": 90,
+                "uvlock": false
+            }
+        ],
+        "facing=east,half=lower,hinge=left,open=true,powered=true": [
+            {
+                "model": "minecraft:block/sandstone_rim",
+                "y": 180,
+                "uvlock": false
+            },
+            {
+                "model": "minecraft:block/sandstone_rim_2",
+                "y": 180,
+                "uvlock": false
+            }
+        ],
+        "facing=south,half=lower,hinge=left,open=true,powered=true": [
+            {
+                "model": "minecraft:block/sandstone_rim",
+                "y": 270,
+                "uvlock": false
+            },
+            {
+                "model": "minecraft:block/sandstone_rim_2",
+                "y": 270,
+                "uvlock": false
+            }
+        ],
+        "facing=west,half=lower,hinge=left,open=true,powered=true": [
+            {
+                "model": "minecraft:block/sandstone_rim",
+                "uvlock": false
+            },
+            {
+                "model": "minecraft:block/sandstone_rim_2",
+                "uvlock": false
+            }
+        ],
+        "facing=north,half=lower,hinge=right,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_3_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_3_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_3_4"
+            }
+        ],
+        "facing=east,half=lower,hinge=right,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_4"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_4_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_4_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_4_4"
+            }
+        ],
+        "facing=south,half=lower,hinge=right,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_1_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_1_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_1_4"
+            }
+        ],
+        "facing=west,half=lower,hinge=right,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_2_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_2_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_yellow_vertical_slab_2_4"
+            }
+        ],
+        "facing=north,half=lower,hinge=right,open=true,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_2_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_2_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_2_4"
+            }
+        ],
+        "facing=east,half=lower,hinge=right,open=true,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_3_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_3_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_3_4"
+            }
+        ],
+        "facing=south,half=lower,hinge=right,open=true,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_4"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_4_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_4_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_4_4"
+            }
+        ],
+        "facing=west,half=lower,hinge=right,open=true,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_1_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_1_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_green_vertical_slab_1_4"
+            }
+        ],
+        "facing=north,half=upper,hinge=left,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_3_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_3_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_3_4"
+            }
+        ],
+        "facing=east,half=upper,hinge=left,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_4"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_4_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_4_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_4_4"
+            }
+        ],
+        "facing=south,half=upper,hinge=left,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_1_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_1_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_1_4"
+            }
+        ],
+        "facing=west,half=upper,hinge=left,open=false,powered=true": [
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_2_2"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_2_3"
+            },
+            {
+                "model": "mcme:block/pine_leaves_dark_vertical_slab_2_4"
+            }
+        ],
+        "facing=north,half=upper,hinge=left,open=true,powered=true": {
+            "model": "minecraft:block/round_wooden_window",
+            "y": 90,
+            "uvlock": false
+        },
+        "facing=east,half=upper,hinge=left,open=true,powered=true": {
+            "model": "minecraft:block/round_wooden_window",
+            "y": 180,
+            "uvlock": false
+        },
+        "facing=south,half=upper,hinge=left,open=true,powered=true": {
+            "model": "minecraft:block/round_wooden_window",
+            "y": 270,
+            "uvlock": false
+        },
+        "facing=west,half=upper,hinge=left,open=true,powered=true": {
+            "model": "minecraft:block/round_wooden_window"
+        },
+        "facing=north,half=upper,hinge=right,open=false,powered=true": {
+            "model": "mcme:block/hobbit_door_2x2_green"
+        },
+        "facing=east,half=upper,hinge=right,open=false,powered=true": {
+            "model": "mcme:block/hobbit_door_2x2_green_y_90"
+        },
+        "facing=south,half=upper,hinge=right,open=false,powered=true": {
+            "model": "mcme:block/hobbit_door_2x2_green_y_180"
+        },
+        "facing=west,half=upper,hinge=right,open=false,powered=true": {
+            "model": "mcme:block/hobbit_door_2x2_green_y_270"
+        },
+        "facing=north,half=upper,hinge=right,open=true,powered=true": [
+            {
+                "model": "minecraft:block/stone_rim",
+                "y": 270
+            },
+            {
+                "model": "minecraft:block/stone_rim_2",
+                "y": 270
+            }
+        ],
+        "facing=east,half=upper,hinge=right,open=true,powered=true": [
+            {
+                "model": "minecraft:block/stone_rim"
+            },
+            {
+                "model": "minecraft:block/stone_rim_2"
+            }
+        ],
+        "facing=south,half=upper,hinge=right,open=true,powered=true": [
+            {
+                "model": "minecraft:block/stone_rim",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block/stone_rim_2",
+                "y": 90
+            }
+        ],
+        "facing=west,half=upper,hinge=right,open=true,powered=true": [
+            {
+                "model": "minecraft:block/stone_rim",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block/stone_rim_2",
+                "y": 180
+            }
+        ]
+    }
+}

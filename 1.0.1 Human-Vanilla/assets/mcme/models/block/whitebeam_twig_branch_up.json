@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/whitebeam_twig_branch_up",
+        "particle": "mcme:block/whitebeam_twig_branch_up"
+    },
+    "parent": "mcme:block/whitebeam_twig_branch_up_parent"
+}

@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/pine_trunk_vertical",
+        "particle": "mcme:block/pine_trunk_vertical"
+    },
+    "parent": "mcme:block/vertical_trunk_parent"
+}

@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "minecraft:block/cobblestone_quarter_block",
+            "y": 270,
+            "uvlock": true
+        },
+        "facing=north": {
+            "model": "minecraft:block/cobblestone_quarter_block",
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=south": {
+            "model": "minecraft:block/cobblestone_quarter_block"
+        },
+        "facing=west": {
+            "model": "minecraft:block/cobblestone_quarter_block",
+            "y": 90,
+            "uvlock": true
+        }
+    }
+}

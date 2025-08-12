@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/vines",
+        "particle": "mcme:block/vines"
+    },
+    "parent": "mcme:block/vines_parent"
+}

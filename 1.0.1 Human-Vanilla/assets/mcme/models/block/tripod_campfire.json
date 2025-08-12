@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/tripod_campfire",
+        "particle": "mcme:block/tripod_campfire"
+    },
+    "parent": "mcme:block/tripod_campfire_parent"
+}

@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/charred_fern_3_y_180",
+        "particle": "mcme:block/charred_fern_3_y_180"
+    },
+    "parent": "mcme:block/charred_fern_3_parent"
+}

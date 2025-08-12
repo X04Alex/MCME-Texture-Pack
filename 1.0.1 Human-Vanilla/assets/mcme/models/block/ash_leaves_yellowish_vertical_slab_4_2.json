@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/ash_leaves_yellowish_vertical_slab_4_2",
+        "particle": "mcme:block/ash_leaves_yellowish_vertical_slab_4_2"
+    },
+    "parent": "mcme:block/leaves_vertical_slab_parent_4_2"
+}

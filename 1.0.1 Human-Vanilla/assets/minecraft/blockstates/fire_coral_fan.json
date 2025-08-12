@@ -1,0 +1,30 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "mcme:block/forestfloor"
+            },
+            {
+                "model": "mcme:block/forestfloor_y_90"
+            },
+            {
+                "model": "mcme:block/forestfloor_y_180"
+            },
+            {
+                "model": "mcme:block/forestfloor_y_270"
+            },
+            {
+                "model": "mcme:block/forestfloor_2"
+            },
+            {
+                "model": "mcme:block/forestfloor_2_y_90"
+            },
+            {
+                "model": "mcme:block/forestfloor_2_y_180"
+            },
+            {
+                "model": "mcme:block/forestfloor_2_y_270"
+            }
+        ]
+    }
+}

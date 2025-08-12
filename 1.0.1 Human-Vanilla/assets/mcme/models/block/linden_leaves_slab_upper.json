@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/linden_leaves_slab_upper",
+        "particle": "mcme:block/linden_leaves_slab_upper"
+    },
+    "parent": "mcme:block/leaves_slab_upper_parent"
+}

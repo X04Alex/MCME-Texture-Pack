@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/pine_thin_branch_45_diagonal",
+        "particle": "mcme:block/pine_thin_branch_45_diagonal"
+    },
+    "parent": "mcme:block/pine_thin_branch_45_diagonal_parent"
+}

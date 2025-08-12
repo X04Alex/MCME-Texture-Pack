@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/forestfloor_2",
+        "particle": "mcme:block/forestfloor_2"
+    },
+    "parent": "mcme:block/forestfloor_parent_2"
+}

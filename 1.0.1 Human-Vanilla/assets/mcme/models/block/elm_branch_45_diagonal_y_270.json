@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/elm_branch_45_diagonal_y_270",
+        "particle": "mcme:block/elm_branch_45_diagonal_y_270"
+    },
+    "parent": "mcme:block/elm_branch_45_diagonal_parent"
+}

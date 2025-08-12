@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/beam_round_e_y_180",
+        "particle": "mcme:block/beam_round_e_y_180"
+    },
+    "parent": "mcme:block/beam_round_e_parent"
+}

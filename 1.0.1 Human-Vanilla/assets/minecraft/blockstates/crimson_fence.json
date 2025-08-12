@@ -1,0 +1,92 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "mcme:block/beam_round_e"
+            },
+            "when": {
+                "north": "false",
+                "east": "false",
+                "south": "false",
+                "west": "true"
+            }
+        },
+        {
+            "apply": {
+                "model": "mcme:block/beam_round_e_y_90"
+            },
+            "when": {
+                "north": "true",
+                "east": "false",
+                "south": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": {
+                "model": "mcme:block/beam_round_e_y_180"
+            },
+            "when": {
+                "north": "false",
+                "east": "true",
+                "south": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": {
+                "model": "mcme:block/beam_round_e_y_270"
+            },
+            "when": {
+                "north": "false",
+                "east": "false",
+                "south": "true",
+                "west": "false"
+            }
+        },
+        {
+            "apply": {
+                "model": "mcme:block/beam_round_e_down"
+            },
+            "when": {
+                "north": "false",
+                "east": "false",
+                "south": "true",
+                "west": "true"
+            }
+        },
+        {
+            "apply": {
+                "model": "mcme:block/beam_round_e_down_y_90"
+            },
+            "when": {
+                "north": "true",
+                "east": "false",
+                "south": "false",
+                "west": "true"
+            }
+        },
+        {
+            "apply": {
+                "model": "mcme:block/beam_round_e_down_y_180"
+            },
+            "when": {
+                "north": "true",
+                "east": "true",
+                "south": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": {
+                "model": "mcme:block/beam_round_e_down_y_270"
+            },
+            "when": {
+                "north": "false",
+                "east": "true",
+                "south": "true",
+                "west": "false"
+            }
+        }
+    ]
+}

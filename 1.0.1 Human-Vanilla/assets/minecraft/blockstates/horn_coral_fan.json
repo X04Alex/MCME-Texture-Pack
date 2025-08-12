@@ -1,0 +1,78 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "mcme:block/putrid_sticks"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_y_90"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_y_180"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_y_270"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_2"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_2_y_90"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_2_y_180"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_2_y_270"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_3"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_3_y_90"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_3_y_180"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_3_y_270"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_4"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_4_y_90"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_4_y_180"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_4_y_270"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_5"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_5_y_90"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_5_y_180"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_5_y_270"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_6"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_6_y_90"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_6_y_180"
+            },
+            {
+                "model": "mcme:block/putrid_sticks_6_y_270"
+            }
+        ]
+    }
+}

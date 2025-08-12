@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/willow_leaves_slab_upper",
+        "particle": "mcme:block/willow_leaves_slab_upper"
+    },
+    "parent": "mcme:block/leaves_slab_extended_upper_parent"
+}

@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/beech_thin_trunk_horizontal_y_180",
+        "particle": "mcme:block/beech_thin_trunk_horizontal_y_180"
+    },
+    "parent": "mcme:block/beech_thin_trunk_horizontal_parent"
+}

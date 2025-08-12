@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "mcme:block/tripod_campfire"
+            },
+            {
+                "model": "mcme:block/tripod_campfire_y_90"
+            },
+            {
+                "model": "mcme:block/tripod_campfire_y_180"
+            },
+            {
+                "model": "mcme:block/tripod_campfire_y_270"
+            }
+        ]
+    }
+}

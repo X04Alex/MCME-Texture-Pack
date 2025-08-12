@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/maple_twig_branch_2_y_90",
+        "particle": "mcme:block/maple_twig_branch_2_y_90"
+    },
+    "parent": "mcme:block/maple_twig_branch_2_parent"
+}

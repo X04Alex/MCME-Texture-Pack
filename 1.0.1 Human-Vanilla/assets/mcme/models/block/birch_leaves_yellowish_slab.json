@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/birch_leaves_yellowish_slab",
+        "particle": "mcme:block/birch_leaves_yellowish_slab"
+    },
+    "parent": "mcme:block/leaves_slab_extended_parent"
+}

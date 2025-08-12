@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/pine_leaves_green",
+        "particle": "mcme:block/pine_leaves_green"
+    },
+    "parent": "mcme:block/leaves_parent"
+}

@@ -1,0 +1,110 @@
+{
+    "variants": {
+        "distance=1,persistent=false": [
+            {
+                "model": "mcme:block/larch_leaves_slab"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_2"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_3"
+            }
+        ],
+        "distance=2,persistent=false": [
+            {
+                "model": "mcme:block/larch_leaves_slab_y_90"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_2_y_90"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_3_y_90"
+            }
+        ],
+        "distance=3,persistent=false": [
+            {
+                "model": "mcme:block/larch_leaves_slab_y_180"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_2_y_180"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_3_y_180"
+            }
+        ],
+        "distance=4,persistent=false": [
+            {
+                "model": "mcme:block/larch_leaves_slab_y_270"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_2_y_270"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_3_y_270"
+            }
+        ],
+        "distance=5,persistent=false": [
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal_2"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal_3"
+            }
+        ],
+        "distance=6,persistent=false": [
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal_y_90"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal_2_y_90"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal_3_y_90"
+            }
+        ],
+        "distance=7,persistent=false": [
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal_y_180"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal_2_y_180"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal_3_y_180"
+            }
+        ],
+        "distance=1,persistent=true": [
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal_y_270"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal_2_y_270"
+            },
+            {
+                "model": "mcme:block/larch_leaves_slab_diagonal_3_y_270"
+            }
+        ],
+        "distance=2,persistent=true": {
+            "model": "block/invisible"
+        },
+        "distance=7,persistent=true": [
+            {
+                "model": "mcme:block/vines_block"
+            },
+            {
+                "model": "mcme:block/vines_block_y_90",
+                "uvlock": false
+            },
+            {
+                "model": "mcme:block/vines_block_y_180"
+            },
+            {
+                "model": "mcme:block/vines_block_y_270"
+            }
+        ]
+    }
+}

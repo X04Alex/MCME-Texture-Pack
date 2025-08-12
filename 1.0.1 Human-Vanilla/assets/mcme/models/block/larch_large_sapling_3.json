@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/larch_large_sapling_3",
+        "particle": "mcme:block/larch_large_sapling_3"
+    },
+    "parent": "mcme:block/larch_large_sapling_3_parent"
+}

@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/larch_leaves",
+        "particle": "mcme:block/larch_leaves"
+    },
+    "parent": "mcme:block/spruce_leaves_parent"
+}

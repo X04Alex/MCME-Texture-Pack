@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/bubble_coral_fan_2_y_270",
+        "particle": "mcme:block/bubble_coral_fan_2_y_270"
+    },
+    "parent": "mcme:block/floor_leaves_parent_2"
+}

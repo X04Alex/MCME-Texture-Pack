@@ -1,0 +1,208 @@
+{
+    "multipart": [
+        {
+            "apply": [
+                {
+                    "model": "mcme:block/vines"
+                },
+                {
+                    "model": "mcme:block/vines_2"
+                },
+                {
+                    "model": "mcme:block/vines_3"
+                }
+            ],
+            "when": {
+                "north": "true"
+            }
+        },
+        {
+            "apply": [
+                {
+                    "model": "mcme:block/vines"
+                },
+                {
+                    "model": "mcme:block/vines_2"
+                },
+                {
+                    "model": "mcme:block/vines_3"
+                }
+            ],
+            "when": {
+                "east": "false",
+                "north": "false",
+                "south": "false",
+                "up": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": [
+                {
+                    "model": "mcme:block/vines_y_90",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_2_y_90",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_3_y_90",
+                    "uvlock": true
+                }
+            ],
+            "when": {
+                "east": "true"
+            }
+        },
+        {
+            "apply": [
+                {
+                    "model": "mcme:block/vines_y_90",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_2_y_90",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_3_y_90",
+                    "uvlock": true
+                }
+            ],
+            "when": {
+                "east": "false",
+                "north": "false",
+                "south": "false",
+                "up": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": [
+                {
+                    "model": "mcme:block/vines_y_180",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_2_y_180",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_3_y_180",
+                    "uvlock": true
+                }
+            ],
+            "when": {
+                "south": "true"
+            }
+        },
+        {
+            "apply": [
+                {
+                    "model": "mcme:block/vines_y_180",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_2_y_180",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_3_y_180",
+                    "uvlock": true
+                }
+            ],
+            "when": {
+                "east": "false",
+                "north": "false",
+                "south": "false",
+                "up": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": [
+                {
+                    "model": "mcme:block/vines_y_270",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_2_y_270",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_3_y_270",
+                    "uvlock": true
+                }
+            ],
+            "when": {
+                "west": "true"
+            }
+        },
+        {
+            "apply": [
+                {
+                    "model": "mcme:block/vines_y_270",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_2_y_270",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_3_y_270",
+                    "uvlock": true
+                }
+            ],
+            "when": {
+                "east": "false",
+                "north": "false",
+                "south": "false",
+                "up": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": [
+                {
+                    "model": "mcme:block/vines_x_270",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_2_x_270",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_3_x_270",
+                    "uvlock": true
+                }
+            ],
+            "when": {
+                "up": "true"
+            }
+        },
+        {
+            "apply": [
+                {
+                    "model": "mcme:block/vines_x_270",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_2_x_270",
+                    "uvlock": true
+                },
+                {
+                    "model": "mcme:block/vines_3_x_270",
+                    "uvlock": true
+                }
+            ],
+            "when": {
+                "east": "false",
+                "north": "false",
+                "south": "false",
+                "up": "false",
+                "west": "false"
+            }
+        }
+    ]
+}

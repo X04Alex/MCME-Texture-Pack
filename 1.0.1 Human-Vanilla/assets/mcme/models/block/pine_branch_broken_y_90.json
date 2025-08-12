@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/pine_branch_broken_y_90",
+        "particle": "mcme:block/pine_branch_broken_y_90"
+    },
+    "parent": "mcme:block/pine_branch_broken_parent"
+}

@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/brain_coral_fan",
+        "particle": "mcme:block/brain_coral_fan"
+    },
+    "parent": "mcme:block/floor_leaves_parent"
+}

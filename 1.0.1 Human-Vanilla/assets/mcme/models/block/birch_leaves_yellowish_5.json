@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/birch_leaves_yellowish_5",
+        "particle": "mcme:block/birch_leaves_yellowish_5"
+    },
+    "parent": "mcme:block/leaves_extended_parent_5"
+}

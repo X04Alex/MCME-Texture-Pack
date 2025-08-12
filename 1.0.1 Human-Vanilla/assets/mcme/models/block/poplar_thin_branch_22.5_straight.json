@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/poplar_thin_branch_22.5_straight",
+        "particle": "mcme:block/poplar_thin_branch_22.5_straight"
+    },
+    "parent": "mcme:block/poplar_thin_branch_22.5_straight_parent"
+}

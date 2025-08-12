@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/floortwig_5_y_90",
+        "particle": "mcme:block/floortwig_5_y_90"
+    },
+    "parent": "mcme:block/floortwig_5_parent"
+}

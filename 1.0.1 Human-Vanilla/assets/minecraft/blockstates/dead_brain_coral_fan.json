@@ -1,0 +1,102 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "mcme:block/floortwig"
+            },
+            {
+                "model": "mcme:block/floortwig_y_90"
+            },
+            {
+                "model": "mcme:block/floortwig_y_180"
+            },
+            {
+                "model": "mcme:block/floortwig_y_270"
+            },
+            {
+                "model": "mcme:block/floortwig_2"
+            },
+            {
+                "model": "mcme:block/floortwig_2_y_90"
+            },
+            {
+                "model": "mcme:block/floortwig_2_y_180"
+            },
+            {
+                "model": "mcme:block/floortwig_2_y_270"
+            },
+            {
+                "model": "mcme:block/floortwig_3"
+            },
+            {
+                "model": "mcme:block/floortwig_3_y_90"
+            },
+            {
+                "model": "mcme:block/floortwig_3_y_180"
+            },
+            {
+                "model": "mcme:block/floortwig_3_y_270"
+            },
+            {
+                "model": "mcme:block/floortwig_4"
+            },
+            {
+                "model": "mcme:block/floortwig_4_y_90"
+            },
+            {
+                "model": "mcme:block/floortwig_4_y_180"
+            },
+            {
+                "model": "mcme:block/floortwig_4_y_270"
+            },
+            {
+                "model": "mcme:block/floortwig_5"
+            },
+            {
+                "model": "mcme:block/floortwig_5_y_90"
+            },
+            {
+                "model": "mcme:block/floortwig_5_y_180"
+            },
+            {
+                "model": "mcme:block/floortwig_5_y_270"
+            },
+            {
+                "model": "mcme:block/floortwig_6"
+            },
+            {
+                "model": "mcme:block/floortwig_6_y_90"
+            },
+            {
+                "model": "mcme:block/floortwig_6_y_180"
+            },
+            {
+                "model": "mcme:block/floortwig_6_y_270"
+            },
+            {
+                "model": "mcme:block/floortwig_7"
+            },
+            {
+                "model": "mcme:block/floortwig_7_y_90"
+            },
+            {
+                "model": "mcme:block/floortwig_7_y_180"
+            },
+            {
+                "model": "mcme:block/floortwig_7_y_270"
+            },
+            {
+                "model": "mcme:block/floortwig_8"
+            },
+            {
+                "model": "mcme:block/floortwig_8_y_90"
+            },
+            {
+                "model": "mcme:block/floortwig_8_y_180"
+            },
+            {
+                "model": "mcme:block/floortwig_8_y_270"
+            }
+        ]
+    }
+}

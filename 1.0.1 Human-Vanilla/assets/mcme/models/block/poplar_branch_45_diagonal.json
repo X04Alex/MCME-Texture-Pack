@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/poplar_branch_45_diagonal",
+        "particle": "mcme:block/poplar_branch_45_diagonal"
+    },
+    "parent": "mcme:block/poplar_branch_45_diagonal_parent"
+}

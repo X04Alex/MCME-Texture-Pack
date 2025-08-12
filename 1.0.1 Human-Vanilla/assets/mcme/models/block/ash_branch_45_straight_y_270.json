@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/ash_branch_45_straight_y_270",
+        "particle": "mcme:block/ash_branch_45_straight_y_270"
+    },
+    "parent": "mcme:block/ash_branch_45_straight_parent"
+}

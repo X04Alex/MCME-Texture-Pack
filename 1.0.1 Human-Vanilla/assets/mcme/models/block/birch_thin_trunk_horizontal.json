@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "0": "mcme:block/birch_thin_trunk_horizontal",
+        "particle": "mcme:block/birch_thin_trunk_horizontal"
+    },
+    "parent": "mcme:block/birch_thin_trunk_horizontal_parent"
+}
